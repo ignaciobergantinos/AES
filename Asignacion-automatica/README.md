@@ -20,6 +20,7 @@ Entonces los datos que tomaremos en el excel sera:
 |   | 10942556 | 10  | 1270  | 10.558.233  |
 
 Para este paso, la primer parte del programa lo que hace es tomar 
+
 ![image](https://user-images.githubusercontent.com/91348491/167454711-6518c1bf-5256-4df7-b138-c8f50c5489f5.png)
 
 ### Referencias tomadas:
