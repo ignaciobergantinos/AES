@@ -24,16 +24,18 @@ Para este paso, la primer parte del programa lo que hace es tomar
 
 ### Referencias tomadas:
 
-Nombre de transaccion:
+#### Nombre de transaccion:
 
 ![image](https://user-images.githubusercontent.com/91348491/167454961-e3b4ccf4-a566-4032-acbb-8b75cccebc2e.png)
+
 Se coloca /n para que podamos ejecutar dicha transaccion dentro de otras transacciones.
 
-Nombre_usuario y nombre_variante:
+
+#### Nombre_usuario y nombre_variante:
 
 ![image](https://user-images.githubusercontent.com/91348491/167455161-e9bf895d-1614-407b-8063-7d62342b6c26.png)
 
-Nombre_layout: (tiene que ser exactamente igual)
+#### Nombre_layout: (tiene que ser exactamente igual)
 
 ![image](https://user-images.githubusercontent.com/91348491/167455214-c2ade708-8712-4c92-bb94-9bd9f7c42c56.png)
 
