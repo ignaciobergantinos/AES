@@ -13,4 +13,8 @@ Haremos el siguiente filtrado:
 
 Entonces los datos que tomaremos en el excel sera:
 
-| Req. Tracking Number | Solicitud de pedido | Posicion | Material | Centro |
+| Req. Tracking Number | Solicitud de Pedido | Posicion | Centro | Material |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| BERGATINO  | 10994596 | 10  | 2805  | 10.245.155  |
+|   | 10942556 | 10  | 1270  | 10.558.233  |
+
