@@ -10,7 +10,7 @@ Tomaremos los datos de esta transaccion, lo que no haremos es hacer una descarga
 Haremos el siguiente filtrado:
 * Solicitudes con SKU (Con codigo de material)
 * Solicitudes sin asignacion (Campo Req. Tracking Number vacio) y solicitudes con asignacion "BERGATINO"
-* Observacion: El filtrado por centro lo hacemos directamente de sap
+* Centros que especificaremos
 
 Entonces los datos que tomaremos en el excel sera:
 
