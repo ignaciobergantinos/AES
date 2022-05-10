@@ -6,6 +6,9 @@ Automatizacion de la Asignacion de solicitudes de pedido de SAP. La automatizaci
 ![WhatsApp Image 2022-05-09 at 1 09 12 PM](https://user-images.githubusercontent.com/91348491/167451972-e6277d96-3ca0-49fa-bbc0-0122f13ca2d7.jpeg)
 
 ## Transaccion Me5a
+
+![image](https://user-images.githubusercontent.com/91348491/167637413-29c02f55-023f-4384-ac71-e771d3b61c5e.png)
+
 Tomaremos los datos de esta transaccion, lo que no haremos es hacer una descarga automatica, mas bien, leer los valores de SAP y pasarlos a Excel para tenerlos durante la ejecucion del programa. 
 Haremos el siguiente filtrado:
 * Solicitudes con SKU (Con codigo de material)
