@@ -19,6 +19,7 @@ Entonces los datos que tomaremos en el excel sera:
 
 // agregar texto
 //mm60 texto material
+//asignar a req tracking generico
 | Req. Tracking Number | Solicitud de Pedido | Posicion | Centro | Material |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | BERGATINO  | 10994596 | 10  | 2805  | 10.245.155  |
